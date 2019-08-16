@@ -1,5 +1,6 @@
 ---
 title: Videos
+feature-img: /assets/img/vr_cam.jpg
 hide: false
 layout: page
 ---
