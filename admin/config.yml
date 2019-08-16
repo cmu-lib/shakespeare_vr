@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: cmu-lib/shakespeare-vr
 media_folder: "assets/img"
 site_url: https://cmu-shx-vr.netlify.com
