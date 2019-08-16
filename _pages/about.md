@@ -1,7 +1,6 @@
 ---
 title: About
-feature-img: /assets/img/lineart.png
-hide_nav: false
+feature-img: ''
 ---
 
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
