@@ -55,10 +55,6 @@ collections:
           - name: body
             label: Content
             widget: markdown
-          - name: hide
-            label: Hide from navigation
-            widget: boolean
-            default: false
             hint: Check this to hide this page from the main navigation bar
             required: false
           - name: layout
