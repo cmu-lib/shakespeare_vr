@@ -18,7 +18,8 @@ collections:
       - name: body
         title: Content
         widget: markdown
-
-
-
+  - name: home
+    label: "Home"
+    folder: ""
+    create: false
 
