@@ -18,6 +18,11 @@ collections:
       - name: body
         title: Content
         widget: markdown
+      - name: hide_nav
+        title: Hide from navigation
+        widget: boolean
+        default: false
+        hint: Check this to hide this page from the main navigation bar
   - name: home
     label: "Home"
     folder: "/"
