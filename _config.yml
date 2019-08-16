@@ -24,12 +24,6 @@ collections:
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
-  # Header and footer text
-  header_text: Shakespeare in Virtual Reality
-  header_feature_image: /assets/img/shx_banner.jpg
-  footer_text: >
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
-
   # Icons
   email_address: # Full email address, e.g. "sam@example.com"
   behance:

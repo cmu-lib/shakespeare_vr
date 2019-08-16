@@ -1,6 +1,8 @@
 ---
-title: CMU Shakespeare VR
+title: Shakespeare in Virtual Reality
+subtitle: Bringing virtual reality into the classroom
 layout: home
+feature-img: /assets/img/shx_banner.jpg
 ---
 The Shakespeare-VR project uses virtual reality technologies to bring students face-to-face with professional actors performing Shakespearean soliloquies in a replica of Shakespeare’s Blackfriars Playhouse. Directed by Shakespeare scholar and Digital Humanities specialist, Prof. Stephen Wittek, the project combines the talents of partners from the virtual reality production company Stitchbridge, the Eberly Center for Teaching Excellence and Educational Innovation, the CMU Center for Digital Sciences, Humanities, Arts, Research, and Publishing (DSHARP), and the American Shakespeare Center.
 
