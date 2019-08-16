@@ -5,11 +5,14 @@ title: Shakespeare VR # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       image: /assets/img/shx_square.jpg # seo tag
+  - scope:
+      path: "pages"
+    values:
+      layout: page
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -18,7 +21,7 @@ theme_settings:
   favicon: /assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: Shakespeare in Virtual Reality
   header_feature_image: /assets/img/shx_banner.jpg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

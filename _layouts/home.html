@@ -9,5 +9,30 @@ layout: default
     <h1> {{ site.theme_settings.header_text }} </h1>
   </div>
   {% endif %}
-
 </div>
+
+<div class="content">
+  <article>
+    <section class="post-content">
+      {% if page.bootstrap %}
+      <div class="bootstrap-iso">
+        {% endif %}
+        {{ content }}
+        {% if page.bootstrap %}
+      </div>
+      {% endif %}
+    </section>
+  </article>
+</div>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>

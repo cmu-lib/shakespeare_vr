@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+  repo: cmu-lib/shakespeare-vr
+media_folder: "assets/images"
+collections:
+  - name: page
+    label: "Page"
+    folder: "pages"
+    create: true
+    fields:
+      - name: title
+        title: Title
+        widget: string
+      - name: feature-img
+        title: Banner Image
+        widget: thumbnail
+      - name: body
+        title: Content
+        widget: markdown
+
+
+
+
