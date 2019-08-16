@@ -64,3 +64,14 @@ collections:
         title: Layout
         widget: hidden
         default: home
+  - name: settings
+    label: "Site Settings"
+    files:
+      - label: Main Settings
+        name: main
+        file: "_data/variables.yml"
+        fields:
+          - name: footer_text
+            title: Footer Text
+            widget: markdown
+
