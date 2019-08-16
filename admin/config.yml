@@ -19,11 +19,12 @@ collections:
       - name: body
         title: Content
         widget: markdown
-      - name: hide_nav
+      - name: hide
         title: Hide from navigation
         widget: boolean
         default: false
         hint: Check this to hide this page from the main navigation bar
+        required: false
       - name: layout
         title: Layout
         widget: hidden
