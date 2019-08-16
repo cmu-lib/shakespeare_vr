@@ -21,14 +21,10 @@ collections:
         label: Banner Image
         widget: image
         required: false
+        hint: Ideal size is 1425 x 600 px
       - name: body
         label: Content
         widget: markdown
-      - name: hide
-        label: Hide from navigation
-        widget: boolean
-        default: false
-        hint: Check this to hide this page from the main navigation bar
         required: false
       - name: layout
         label: Layout
@@ -36,6 +32,8 @@ collections:
         default: page
   - name: home
     label: "Home"
+    create: false
+    delete: false
     files:
       - label: Home Page
         name: home
@@ -50,19 +48,16 @@ collections:
             required: false
           - name: feature-img
             label: Banner Image
+            hint: Ideal size is 1425 x 600 px
             widget: image
             required: false
           - name: body
             label: Content
             widget: markdown
-            hint: Check this to hide this page from the main navigation bar
-            required: false
           - name: layout
             label: Layout
             widget: hidden
             default: home
-    create: false
-    delete: false
   - name: settings
     label: "Site Settings"
     create: false
