@@ -11,23 +11,23 @@ collections:
     create: true
     fields:
       - name: title
-        title: Title
+        label: Title
         widget: string
       - name: feature-img
-        title: Banner Image
+        label: Banner Image
         widget: image
         required: false
       - name: body
-        title: Content
+        label: Content
         widget: markdown
       - name: hide
-        title: Hide from navigation
+        label: Hide from navigation
         widget: boolean
         default: false
         hint: Check this to hide this page from the main navigation bar
         required: false
       - name: layout
-        title: Layout
+        label: Layout
         widget: hidden
         default: page
   - name: home
@@ -38,40 +38,44 @@ collections:
         file: "index.md"
         fields:
           - name: title
-            title: Title
+            label: Title
             widget: string
           - name: body
-            title: Content
+            label: Content
             widget: markdown
           - name: layout
-            title: Layout
+            label: Layout
             widget: hidden
             default: home
           - name: hide
-            title: hide
+            label: hide
             widget: hidden
             default: true
     create: false
     delete: false
     fields:
       - name: title
-        title: Title
+        label: Title
         widget: string
       - name: body
-        title: Content
+        label: Content
         widget: markdown
       - name: layout
-        title: Layout
+        label: Layout
         widget: hidden
         default: home
   - name: settings
     label: "Site Settings"
+    create: false
+    delete: false
     files:
       - label: Main Settings
         name: main
         file: "_data/variables.yml"
         fields:
           - name: footer_text
-            title: Footer Text
+            label: Footer Text
+            hint: This HTML will be displayed in the footer of the site on every page.
             widget: markdown
+
 
