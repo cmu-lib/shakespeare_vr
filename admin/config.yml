@@ -91,3 +91,16 @@ collections:
             hint: Select an image to appear in tabs and bookmarkds
             widget: image
             pattern: [".+\\.ico$", "Must have extension .ico"]
+      - label: Navigation Menu
+        name: nav
+        file: "_data/navlinks.yml"
+        fields:
+          - name: page_ordering
+            value: Page ordering
+            widget: relation
+            collection: pages
+            valueField: title
+            searchFields:
+              - title
+
+
