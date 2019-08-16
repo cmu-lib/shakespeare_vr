@@ -21,7 +21,7 @@ collections:
     permalink: /:name/
 
 # enable netlify cms
-netlify_cms: false
+netlify_cms: true
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

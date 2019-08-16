@@ -1,6 +1,5 @@
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
   repo: cmu-lib/shakespeare-vr
 media_folder: "assets/img"
 site_url: https://cmu-shx-vr.netlify.com
