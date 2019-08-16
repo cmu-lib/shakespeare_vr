@@ -68,10 +68,12 @@ collections:
     label: "Site Settings"
     create: false
     delete: false
+    description: Modify site-wide settings
+    editor:
+      preview: false
     files:
       - label: Main Settings
         name: main
-        description: Modify site-wide settings
         file: "_data/variables.yml"
         fields:
           - name: footer_text
