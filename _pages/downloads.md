@@ -18,5 +18,3 @@ Files include:
 * still image assets from the edited video and from the filming days
 * the final edited videos in full quality
 * miscellaneous production notes and video tours of the Blackfriar's Theater
-
-[See the original proposal](/assets/img/shakespeare-vr-project-description.pdf)
