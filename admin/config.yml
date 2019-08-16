@@ -25,7 +25,7 @@ collections:
         hint: Check this to hide this page from the main navigation bar
       - name: layout
         title: Layout
-        hidden: true
+        widget: hidden
         default: page
   - name: home
     label: "Home"
@@ -41,5 +41,5 @@ collections:
         widget: markdown
       - name: layout
         title: Layout
-        hidden: true
+        widget: hidden
         default: home
