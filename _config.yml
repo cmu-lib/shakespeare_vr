@@ -20,6 +20,9 @@ collections:
     output: true
     permalink: /:name/
 
+# enable netlify cms
+netlify_cms: false
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Scripts / Features
