@@ -23,6 +23,10 @@ collections:
         widget: boolean
         default: false
         hint: Check this to hide this page from the main navigation bar
+      - name: layout
+        title: Layout
+        hidden: true
+        default: page
   - name: home
     label: "Home"
     folder: "/"
@@ -35,3 +39,7 @@ collections:
       - name: body
         title: Content
         widget: markdown
+      - name: layout
+        title: Layout
+        hidden: true
+        default: home
