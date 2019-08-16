@@ -20,7 +20,7 @@ collections:
         widget: markdown
   - name: home
     label: "Home"
-    folder: ""
+    folder: "/"
     create: false
     fields:
       - name: body
