@@ -1,8 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: ""
-title: Shakespeare VR # site's title
-description: "A website with blog posts and pages" # used by search engines
 
 defaults:
   - scope:
@@ -24,42 +22,6 @@ collections:
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
-  # Icons
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  gitlab:
-  github: "cmu-lib"
-  google_plus:
-  instagram:
-  keybase:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: # "twitter username"
-  vimeo:
-  wordpress:
-  youtube:
-
-  # Sharing options
-  share_buttons:
-    facebook: true
-    twitter: true
-    tumblr:
-    pinterest:
-    pocket:
-    reddit: true
-    linkedin:
-    wordpress:
-    email: true
-
   # Scripts / Features
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:

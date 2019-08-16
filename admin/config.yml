@@ -75,6 +75,9 @@ collections:
         name: main
         file: "_data/variables.yml"
         fields:
+          - name: title
+            label: Site Title
+            hint: This will appear int he nav bar on the upper left and in the browser tab
           - name: footer_text
             label: Footer Text
             hint: This HTML will be displayed in the footer of the site on every page.
