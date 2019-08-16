@@ -16,6 +16,7 @@ collections:
       - name: feature-img
         title: Banner Image
         widget: image
+        required: false
       - name: body
         title: Content
         widget: markdown
