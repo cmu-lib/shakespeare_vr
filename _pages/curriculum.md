@@ -1,6 +1,7 @@
 ---
 title: Curriculum
 layout: page
+feature-img: /assets/img/audience.jpg
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi nostrum fuga recusandae, quis perspiciatis ex
