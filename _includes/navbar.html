@@ -3,7 +3,7 @@
     <!-- Logo and title -->
     <div class="branding">
         <a href="{{ '/' | relative_url }}">
-            <img alt="logo img" class="avatar" src="{{ site.data.variables.logo | relative_url }}" />
+            <img alt="logo img" class="avatar" src="{{ site.data.variables.avatar | relative_url }}" />
         </a>
 
         <h1 class="site-title">
@@ -22,9 +22,9 @@
         <!-- Menu -->
         <ul class="hide">
             {% assign name_page = "" %}
-
-            {% for page in site.pages %}
-            {% unless page.title == null or page.hide or name_page contains page.title %}
+            {% assign nav_pages = site.pages | concat: site.core %}
+            {% for page in nav_pages %}
+            {% unless page.title == null or page.hide %}
             <li class="separator"> | </li>
             <li>
                 <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}"

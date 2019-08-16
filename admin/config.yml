@@ -13,6 +13,10 @@ collections:
       - name: title
         label: Title
         widget: string
+      - name: subtitle
+        label: Subtitle
+        widget: string
+        required: false
       - name: feature-img
         label: Banner Image
         widget: image
@@ -80,8 +84,8 @@ collections:
             label: Footer Text
             hint: This HTML will be displayed in the footer of the site on every page.
             widget: markdown
-          - name: logo
-            label: Logo
+          - name: avatar
+            label: Avatar
             hint: Logo image to appear in the upper left hand corner. Must be square.
             widget: image
           - name: favicon

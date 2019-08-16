@@ -18,6 +18,9 @@ collections:
   pages:
     output: true
     permalink: /:name/
+  core:
+    output: true
+    permalink: /:name/
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
