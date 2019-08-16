@@ -71,11 +71,18 @@ collections:
     files:
       - label: Main Settings
         name: main
+        description: Modify site-wide settings
         file: "_data/variables.yml"
         fields:
           - name: footer_text
             label: Footer Text
             hint: This HTML will be displayed in the footer of the site on every page.
             widget: markdown
-
-
+          - name: logo
+            label: Logo
+            hint: Logo image to appear in the upper left hand corner. Must be square.
+            widget: image
+          - name: favicon
+            label: Favicon
+            hint: Select an image (with extension .ico) to appear in tabs and bookmarkds
+            widget: image

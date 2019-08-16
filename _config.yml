@@ -21,10 +21,6 @@ collections:
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
-  # Meta
-  avatar: /assets/img/shx_square.jpg
-  favicon: /assets/favicon.ico
-
   # Header and footer text
   header_text: Shakespeare in Virtual Reality
   header_feature_image: /assets/img/shx_banner.jpg
