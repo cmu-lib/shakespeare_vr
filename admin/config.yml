@@ -88,4 +88,4 @@ collections:
             label: Favicon
             hint: Select an image to appear in tabs and bookmarkds
             widget: image
-            pattern: [".+\.ico$", "Must have extension .ico"]
+            pattern: [".+\\.ico$", "Must have extension .ico"]
