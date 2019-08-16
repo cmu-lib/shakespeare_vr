@@ -24,6 +24,9 @@ collections:
     create: false
     delete: false
     fields:
+      - name: title
+        title: Title
+        widget: string
       - name: body
         title: Content
         widget: markdown
