@@ -46,6 +46,10 @@ collections:
             title: Layout
             widget: hidden
             default: home
+          - name: hide
+            title: hide
+            widget: hidden
+            default: true
     create: false
     delete: false
     fields:
