@@ -22,6 +22,7 @@ collections:
     label: "Home"
     folder: "/"
     create: false
+    delete: false
     fields:
       - name: body
         title: Content
