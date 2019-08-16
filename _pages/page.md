@@ -1,6 +1,6 @@
 ---
+title: Curriculum
 layout: page
-title: A sample page
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi nostrum fuga recusandae, quis perspiciatis ex
