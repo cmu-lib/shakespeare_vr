@@ -103,5 +103,4 @@ collections:
             multiple: true
             searchFields:
               - title
-
-
+            hint: Select pages from the dropdown in the order that they should appear on the navigation bar.
