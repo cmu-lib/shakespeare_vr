@@ -24,5 +24,5 @@ collections:
     create: false
     fields:
       - name: body
-          title: Content
-          widget: markdown
+        title: Content
+        widget: markdown
