@@ -6,7 +6,7 @@ media_folder: "assets/images"
 collections:
   - name: page
     label: "Page"
-    description: "A page on the site"
+    description: "Add, delete, and edit pages on the site."
     folder: "_pages"
     create: true
     fields:
