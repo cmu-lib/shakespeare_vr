@@ -7,7 +7,7 @@ collections:
   - name: page
     label: "Page"
     description: "A page on the site"
-    folder: "pages"
+    folder: "_pages"
     create: true
     fields:
       - name: title

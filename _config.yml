@@ -10,9 +10,14 @@ defaults:
     values:
       image: /assets/img/shx_square.jpg # seo tag
   - scope:
-      path: "pages"
+      path: "_pages"
     values:
       layout: page
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
