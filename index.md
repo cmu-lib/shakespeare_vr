@@ -1,6 +1,6 @@
 ---
 layout: home
-title: homepage
+title: CMU Shakespeare VR
 ---
 
 Here we go
