@@ -44,30 +44,29 @@ collections:
           - name: title
             label: Title
             widget: string
+          - name: subtitle
+            label: Subtitle
+            widget: string
+            required: false
+          - name: feature-img
+            label: Banner Image
+            widget: image
+            required: false
           - name: body
             label: Content
             widget: markdown
+          - name: hide
+            label: Hide from navigation
+            widget: boolean
+            default: false
+            hint: Check this to hide this page from the main navigation bar
+            required: false
           - name: layout
             label: Layout
             widget: hidden
             default: home
-          - name: hide
-            label: hide
-            widget: hidden
-            default: true
     create: false
     delete: false
-    fields:
-      - name: title
-        label: Title
-        widget: string
-      - name: body
-        label: Content
-        widget: markdown
-      - name: layout
-        label: Layout
-        widget: hidden
-        default: home
   - name: settings
     label: "Site Settings"
     create: false
