@@ -96,9 +96,9 @@ collections:
         file: "_data/navlinks.yml"
         fields:
           - name: page_ordering
-            value: Page ordering
+            label: Page ordering
             widget: relation
-            collection: pages
+            collection: page
             valueField: title
             searchFields:
               - title
