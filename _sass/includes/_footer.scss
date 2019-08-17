@@ -3,8 +3,13 @@
     display: inline-block;
     text-align: center;
     width: 100%;
-    color: lighten($text-color, 24%);
+    color: $blockquote-color;
+    background-color: $theme-color;
     font-size: 0.9em;
+
+    a {
+        color: $selection-color;
+    }
 
     .footer-icons {
         ul {
