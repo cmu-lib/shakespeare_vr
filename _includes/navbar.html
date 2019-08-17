@@ -6,11 +6,14 @@
             <img alt="logo img" class="avatar" src="{{ site.data.variables.avatar | relative_url }}" />
         </a>
 
-        <h1 class="site-title">
-            <a aria-label="{{ site.data.variables.title }}" href="{{ '/' | relative_url }}">
-                {{ site.data.variables.title }}
-            </a>
-        </h1>
+        <div class="site-title-block">
+            <h1 class="site-title">
+                <a aria-label="{{ site.data.variables.title }}" href="{{ '/' | relative_url }}">
+                    {{ site.data.variables.title }}
+                </a>
+            </h1>
+            <p class="site-subtitle">{{ site.data.variables.subtitle }}</p>
+        </div>
     </div>
 
     <!-- Toggle menu -->

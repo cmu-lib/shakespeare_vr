@@ -22,18 +22,27 @@
         height: 3em;
         width: 3em;
         float: left;
-        margin-top: -13px;
+        margin-top: auto;
+        margin-bottom: auto;
         border-radius: 0.2em;
         margin-right: 0.5em;
         padding: 10px 10px;
 
     }
 
-    .site-title {
+    .site-title-block {
         float: left;
+    }
+
+    .site-title {
         font-weight: bold;
         font-family: $font-family-logo;
         font-size: 1.3em;
+    }
+
+    .site-subtitle {
+        font-family: $font-family-sublogo;
+        font-size: 0.9em;
     }
 
     nav {
@@ -71,7 +80,7 @@
 }
 
 
-// To clear things when we float the element inisde nav and ul 
+// To clear things when we float the element inisde nav and ul
 .clear {
     *zoom: 1;
 
@@ -126,7 +135,7 @@
             margin: 0;
             opacity: 0;
             padding: 0;
-            
+
             /* fade out, then shrink */
             transition: opacity .25s,
                         font-size .5s .25s,
