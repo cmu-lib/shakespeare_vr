@@ -73,7 +73,12 @@ collections:
         fields:
           - name: title
             label: Site Title
-            hint: This will appear int he nav bar on the upper left and in the browser tab
+            hint: This will appear in the nav bar on the upper left and in the browser tab
+            widget: string
+          - name: subtitle
+            label: Site Subtitle
+            hint: This will appear in the nav bar on the upper left under the site title
+            widget: string
           - name: footer_text
             label: Footer Text
             hint: This HTML will be displayed in the footer of the site on every page.
