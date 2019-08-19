@@ -1,5 +1,5 @@
 ---
-title: Step into the Shakespearean universe
+title: '   '
 subtitle: ''
 feature-img: /assets/img/shx_banner.jpg
 layout: page
