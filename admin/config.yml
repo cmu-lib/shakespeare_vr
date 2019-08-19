@@ -21,8 +21,8 @@ collections:
       - name: feature-img
         label: Banner Image
         widget: image
-        required: false
         hint: Ideal size is 1425 x 600 px
+        default: /assets/img/shx_banner.jpg
       - name: body
         label: Content
         widget: markdown
