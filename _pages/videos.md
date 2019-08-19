@@ -4,7 +4,6 @@ subtitle: Tours and Soliloquies
 feature-img: /assets/img/vr_cam.jpg
 layout: page
 ---
-
 The following videos can be watched on your computer, or via a VR device such as an Oculus.
 
 ## Tour of the ASC Blackfriars Theater
@@ -18,6 +17,10 @@ The following videos can be watched on your computer, or via a VR device such as
 ## Hamlet, Act 2, Scene 2
 
 <iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/1E7849z-XlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Hamlet, Act 3, Scene 1
+
+<iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/BXAQ79OtVAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Hamlet, Act 5, Scene 1
 
