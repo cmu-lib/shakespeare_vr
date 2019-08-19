@@ -4,7 +4,7 @@ subtitle: Tours and Soliloquies
 feature-img: /assets/img/vr_cam.jpg
 layout: page
 ---
-The following videos can be watched on your computer, or via a VR device such as an Oculus.
+Please note that the following virtual reality media are intended for viewing on a virtual reality headset. 
 
 ## Tour of the ASC Blackfriars Theater
 
