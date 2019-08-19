@@ -19,7 +19,7 @@ Pedagogical Development - Judith Brooks, Soniya Gadgil, Jessica Harrell ([Eberly
 
 Online production - Scott Weingart, Matthew Lincoln ([DSHARP](http://dsharp.library.cmu.edu/))
 
-Creative Consultants - William Wittek, Lily Wittek 
+Creative Consultants - [William Wittek](https://raw.githubusercontent.com/cmu-lib/shakespeare_vr/master/assets/img/image_6483441.jpg), [Lily Wittek](https://raw.githubusercontent.com/cmu-lib/shakespeare_vr/master/assets/img/img_3574.jpg) 
 
 ## Website
 
