@@ -26,7 +26,6 @@ collections:
       - name: body
         label: Content
         widget: markdown
-        required: false
       - name: layout
         label: Layout
         widget: hidden
