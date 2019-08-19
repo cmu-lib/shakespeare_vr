@@ -1,5 +1,5 @@
 <footer class="site-footer">
-    <p class="text">{{ site.data.variables.footer_text | markdownify }}</p>
+    {{ site.data.variables.footer_text | markdownify }}
     {% if site.netlify_cms %}
     <hr />
     <p class="text"><a href="/admin">Administrator login</a></p>
