@@ -1,6 +1,6 @@
 ---
 title: Shakespeare-VR
-subtitle: ''
+subtitle: Bringing virtual reality into humanities education
 feature-img: /assets/img/shx_banner.jpg
 layout: page
 ---
