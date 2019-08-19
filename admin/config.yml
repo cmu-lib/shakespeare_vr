@@ -88,7 +88,7 @@ collections:
             widget: image
           - name: favicon
             label: Favicon
-            hint: Select an image to appear in tabs and bookmarkds
+            hint: Select an image to appear in tabs and bookmarks
             widget: image
             pattern: [".+\\.ico$", "Must have extension .ico"]
       - label: Navigation Menu
