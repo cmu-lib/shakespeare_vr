@@ -1,12 +1,8 @@
-article,
-.comments {
+article {
     @extend %padding-regular;
-    border-bottom: 1px solid $border-color;
     float: left;
     width: 100%;
-}
-
-article {
+    margin-bottom: 3rem;
     header {
         margin-bottom: 6%;
         text-align: left;
