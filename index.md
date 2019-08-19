@@ -1,9 +1,10 @@
 ---
 title: Shakespeare in Virtual Reality
 subtitle: Bringing virtual reality into the classroom
-layout: home
+layout: page
 feature-img: /assets/img/shx_banner.jpg
 ---
+
 The Shakespeare-VR project uses virtual reality technologies to bring students face-to-face with professional actors performing Shakespearean soliloquies in a replica of Shakespeare’s Blackfriars Playhouse. Directed by Shakespeare scholar and Digital Humanities specialist, Prof. Stephen Wittek, the project combines the talents of partners from the virtual reality production company Stitchbridge, the Eberly Center for Teaching Excellence and Educational Innovation, the CMU Center for Digital Sciences, Humanities, Arts, Research, and Publishing (DSHARP), and the American Shakespeare Center.
 
 In addition to providing an exciting, immersive introduction to the spaces Shakespeare had in mind when he composed his plays, the project makes an important contribution to the growing body of research on virtual reality in humanities education. Shooting at the Blackfriars Playhouse in Staunton, Virginia took place in November, 2018. The first public demonstrations will take place at the digital showcase for the 2019 meeting of the Shakespeare Association of America, with trial tests in classrooms to begin in Spring 2019. The full project, including the virtual reality production, a classroom curriculum, and an archive of development materials will be freely available online by Fall 2019.
