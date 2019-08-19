@@ -4,7 +4,8 @@ feature-img: /assets/img/floor.jpg
 ---
 ## Shakespeare-VR Contributors
 
-Project Director - [Stephen Wittek](https://www.cmu.edu/dietrich/english/people/faculty/bios/stephen-wittek.html) ([CMU Dept. of English](https://www.cmu.edu/dietrich/english/index.html))
+Project Director - [Stephen Wittek](https://www.cmu.edu/dietrich/english/people/faculty/bios/stephen-wittek.html) 
+([CMU Dept. of English](https://www.cmu.edu/dietrich/english/index.html))
 
 Virtual Reality Direction - Jaehee Cho & Ralph Vittucio ([Stitchbridge](https://www.stitchbridge.com/))
 
@@ -14,11 +15,11 @@ Theatrical Direction - [Ethan McSweeny](https://americanshakespearecenter.com/pe
 
 Performance (Hamlet)  - [Zoe Speas](https://americanshakespearecenter.com/people/zoe-speas/) ([ASC](https://americanshakespearecenter.com) players)
 
-Pedagogical Development - Judith Brooks, Soniya Gadgil, Jessica Harrell ([Eberly Center](https://www.cmu.edu/teaching/))
+Pedagogical Development - Judith Brooks, Soniya Gadgil, Jessica Harrell ([Eberly Center](https://www.cmu.edu/teaching/))
 
-Online production -  Scott Weingart, Matthew Lincoln ([DSHARP](http://dsharp.library.cmu.edu/))
+Online production - Scott Weingart, Matthew Lincoln ([DSHARP](http://dsharp.library.cmu.edu/))
 
-Creative Consultants: William Wittek, Lily Wittek 
+Creative Consultants - William Wittek, Lily Wittek 
 
 ## Website
 
