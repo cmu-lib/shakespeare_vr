@@ -10,6 +10,4 @@ The Shakespeare-VR project uses virtual reality technologies to bring students f
 
 <iframe width="700" height="394" src="https://www.youtube.com/watch?v=TeSpMRegRgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Trailer
-
-<iframe width="700" height="394" src="https://youtu.be/o2c4MuKOLZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##
