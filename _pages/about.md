@@ -12,7 +12,7 @@ Production Assistance - Sarah Enloe ([ASC](https://americanshakespearecenter.com
 
 Theatrical Direction - [Ethan McSweeny](https://americanshakespearecenter.com/people/ethan-mcsweeny/) ([ASC](https://americanshakespearecenter.com) Artistic Director)
 
-Perfromance (Hamlet)  - [Zoe Speas](https://americanshakespearecenter.com/people/zoe-speas/) ([ASC](https://americanshakespearecenter.com) players)
+Performance (Hamlet)  - [Zoe Speas](https://americanshakespearecenter.com/people/zoe-speas/) ([ASC](https://americanshakespearecenter.com) players)
 
 Pedagogical Development - Judith Brooks, Soniya Gadgil, Jessica Harrell ([Eberly Center](https://www.cmu.edu/teaching/))
 
