@@ -1,7 +1,7 @@
 ---
 title: Videos
+subtitle: Tours and Soliloquies
 feature-img: /assets/img/vr_cam.jpg
-hide: false
 layout: page
 ---
 
