@@ -1,6 +1,8 @@
 ---
-title: Welcome to Shakespeare-VR!
-subtitle: ''
+title: Step into the Shakespearean universe!
+subtitle: >-
+  Brought to you by the Carnegie Mellon Dept. of English and the American
+  Shakespeare Center
 feature-img: /assets/img/shx_banner.jpg
 layout: page
 ---
