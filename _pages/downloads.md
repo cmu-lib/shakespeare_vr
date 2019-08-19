@@ -8,7 +8,7 @@ The original production data for these virtual reality videos has been uploaded 
 
 You may access the raw data at:
 
-To cite: Witteck, Stephen, et al. "Shakespeare VR" (data), doi:xxx-xxxxxxx
+To cite: Wittek, Stephen, et al. "Shakespeare VR" (data), doi:xxx-xxxxxxx
 
 Files include:
 
