@@ -1,7 +1,16 @@
 <footer class="site-footer">
     {{ site.data.variables.footer_text | markdownify }}
-    {% if site.netlify_cms %}
     <hr />
-    <p class="text"><a href="/admin">Administrator login</a></p>
+    <div class="logos">
+        <a href="https://www.cmu.edu/dietrich/english/">
+            <img src="/assets/img/english-logo.png" alt="Logo for Carnegie Mellon University Department of English">
+        </a>
+        <a href="https://library.cmu.edu">
+            <img src="/assets/img/CMU_LibrariesLogo_Horizontal_White.png"
+                alt="Logo for Carnegie Mellon University Libraries">
+        </a>
+    </div>
+    {% if site.netlify_cms %}
+    <p class="login"><a href="/admin">Administrator login</a></p>
     {% endif %}
 </footer>

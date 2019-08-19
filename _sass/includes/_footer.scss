@@ -23,4 +23,14 @@
             }
         }
     }
+
+    .logos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .login {
+        margin-top: 5rem;
+    }
 }
