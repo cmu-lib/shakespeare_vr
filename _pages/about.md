@@ -17,13 +17,13 @@ Performance (Hamlet)  - [Zoe Speas](https://americanshakespearecenter.com/people
 
 Pedagogical Development - Judith Brooks, Soniya Gadgil, Jessica Harrell ([Eberly Center](https://www.cmu.edu/teaching/))
 
-Online production - Scott Weingart, Matthew Lincoln ([DSHARP](http://dsharp.library.cmu.edu/))
+Online production - [Scott Weingart](https://library.cmu.edu/about/people/scott-weingart), [Matthew Lincoln](https://library.cmu.edu/about/people/matthew-lincoln) ([DSHARP](http://dsharp.library.cmu.edu/))
 
 Creative Consultants - [William Wittek](https://raw.githubusercontent.com/cmu-lib/shakespeare_vr/master/assets/img/image_6483441.jpg), [Lily Wittek](https://raw.githubusercontent.com/cmu-lib/shakespeare_vr/master/assets/img/img_3574.jpg) 
 
 ## Website
 
-Site architecture, design, and implementation - [Matthew Lincoln](https://matthewlincoln.net)
+Site architecture, design, and implementation - [Matthew Lincoln](https://library.cmu.edu/about/people/matthew-lincoln)
 
 Assistance uploading production data was to KiltHub - [David Scherer](https://library.cmu.edu/about/people/david-scherer).
 
