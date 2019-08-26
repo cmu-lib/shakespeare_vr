@@ -3,14 +3,15 @@
     <hr />
     <div class="logos">
         <a href="https://www.cmu.edu/dietrich/english/">
-            <img src="/assets/img/english-logo.png" alt="Logo for Carnegie Mellon University Department of English">
+            <img src="{{ '/assets/img/english-logo.png' | relative_url }}"
+                alt="Logo for Carnegie Mellon University Department of English">
         </a>
         <a href="https://library.cmu.edu">
-            <img src="/assets/img/CMU_LibrariesLogo_Horizontal_White.png"
+            <img src="{{ '/assets/img/CMU_LibrariesLogo_Horizontal_White.png' | relative_url }}"
                 alt="Logo for Carnegie Mellon University Libraries">
         </a>
     </div>
     {% if site.netlify_cms %}
-    <p class="login"><a href="/admin">Administrator login</a></p>
+    <p class="login"><a href="{{ '/admin' | relative_url }}">Administrator login</a></p>
     {% endif %}
 </footer>
