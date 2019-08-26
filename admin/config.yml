@@ -6,9 +6,8 @@ backend:
   site_domain: cms.netlify.com
 media_folder: "assets/img"
 public_folder: "{{ 'assets/img' | relative_url }}"
-site_url: http://dh-web.hss.cmu.edu/shakespeare_vr
-display_url: http://dh-web.hss.cmu.edu/shakespeare_vr
-logo_url: {{ 'assets/img/shx_square.jpg' | relative_url }}
+site_url: https://cmu-shx-vr.netlify.com
+display_url: https://cmu-shx-vr.netlify.com
 collections:
   - name: page
     label: "Page"
