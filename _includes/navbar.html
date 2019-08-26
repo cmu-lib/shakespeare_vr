@@ -12,7 +12,9 @@
                     {{ site.data.variables.title }}
                 </a>
             </h1>
+            {% if site.data.variables.subtitle and site.data.variables.subtitle != '' %}
             <p class="site-subtitle">{{ site.data.variables.subtitle }}</p>
+            {% endif %}
         </div>
     </div>
 
