@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/shakespeare_vr"
 url: ""
 
 defaults:
