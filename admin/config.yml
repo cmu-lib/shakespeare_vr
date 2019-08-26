@@ -1,7 +1,10 @@
+---
+---
 backend:
   name: git-gateway
   repo: cmu-lib/shakespeare-vr
 media_folder: "assets/img"
+public_folder: "{{ 'assets/img' | relative_url }}"
 site_url: https://cmu-shx-vr.netlify.com
 display_url: https://cmu-shx-vr.netlify.com
 collections:
