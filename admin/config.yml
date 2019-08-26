@@ -2,7 +2,8 @@
 ---
 backend:
   name: git-gateway
-  repo: cmu-lib/shakespeare-vr
+  repo: cmu-lib/shakespeare-vr'
+  site_domain: cms.netlify.com
 media_folder: "assets/img"
 public_folder: "{{ 'assets/img' | relative_url }}"
 site_url: https://cmu-shx-vr.netlify.com
