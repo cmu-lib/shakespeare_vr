@@ -1,5 +1,5 @@
 # Production configuration
-baseurl: "/shakespeare-vr"
+baseurl: "/shakespeare_vr"
 exclude:
   - ".gitignore"
   - "_site"
