@@ -7,14 +7,22 @@ Development funded as part of the 2019 A.W. Mellon Digital Humanities Seed Grant
 ## Editing and Deployment
 
 During the editorial phase of this project, a preview build of the site has been deployed to <https://cmu-shx-vr.netlify.com/>.
-Netlify builds the static site with each commit, and supplies a [client-side CMS](https://www.netlifycms.org/)
+Netlify builds the static site with each commit, and supplies a [client-side CMS](https://www.netlifycms.org/) for authorized editors of the site.
 
-Once ready for production, the built site files will be uploaded to a CMU-based webserver.
-After a specified date, further editing via Netlify will be sunset.
+The production site is deployed to <http://dh-web.hss.cmu.edu/shakespeare_vr> once an hour.
+
+## Build
+
+To build site assets from the source code:
+
+1. Install ruby >= 2.6.3
+2. Install bundler via `gem install bundler`
+3. Install all gem dependencies via `bundler install`
+4. Run `bundle exec jekyll build` to generate the site to the `_site` directory.
 
 ## Colophon
 
-This jekyll site is forked from the [Type On Strap](https://github.com/sylhare/Type-on-Strap) theme.
+This Jekyll site is forked from the [Type On Strap](https://github.com/sylhare/Type-on-Strap) theme.
 
 ## Contact
 
