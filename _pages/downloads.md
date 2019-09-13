@@ -6,15 +6,8 @@ layout: page
 ---
 The original production data for these virtual reality videos has been uploaded to KiltHub, Carnegie Mellon University's institutional repository.
 
-You may access the raw data at:
+You may access the raw data in these three deposits:
 
-To cite: Wittek, Stephen, et al. "Shakespeare VR" (data), doi:xxx-xxxxxxx
-
-Files include:
-
-* raw video capture from each camera
-* video capture and video stitching metadata
-* audio assets
-* still image assets from the edited video and from the filming days
-* the final edited videos in full quality
-* miscellaneous production notes and video tours of the Blackfriar's Theater
+* Raw video capture from each camera: <https://doi.org/10.1184/R1/9788294>
+* Final edited videos for each scene: <https://doi.org/10.1184/R1/9788318>
+* Still images taken during filming days and others used in the final videos: <https://doi.org/10.1184/R1/9788303>
