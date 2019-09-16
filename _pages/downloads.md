@@ -10,4 +10,4 @@ You may access the raw data in these three deposits:
 
 * Raw video capture from each camera: <https://doi.org/10.1184/R1/9788294>
 * Final edited videos for each scene: <https://doi.org/10.1184/R1/9788318>
-* Still images taken during filming days and others used in the final videos: <https://doi.org/10.1184/R1/9788303>
+* Photographs taken during filming days, and other 2D assets used in the final videos: <https://doi.org/10.1184/R1/9788303>
