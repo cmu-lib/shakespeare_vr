@@ -4,7 +4,7 @@ subtitle: Tours and Soliloquies
 feature-img: /assets/img/vr_cam.jpg
 layout: page
 ---
-Please note that the following virtual reality media are intended for viewing on a virtual reality headset. 
+Please note that the following virtual reality media are intended for viewing on a virtual reality headset. Resolution qulaitly will depend on the speed of the user's internet connection. For best results, download the virtual media directly from our downloads section. 
 
 ## Tour of the ASC Blackfriars Theater
 
@@ -12,16 +12,16 @@ Please note that the following virtual reality media are intended for viewing on
 
 ## Hamlet, Act 1, Scene 2
 
-<iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/tPkrg6IzSbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1menQvTDJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Hamlet, Act 2, Scene 2
 
-<iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/1E7849z-XlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w0XaFPRbOSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Hamlet, Act 3, Scene 1
 
-<iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/BXAQ79OtVAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/krRnruiNIVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Hamlet, Act 5, Scene 1
 
-<iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/Ja4gk8-CZN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKIl-ursDAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
