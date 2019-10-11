@@ -8,7 +8,7 @@ Please note that the following virtual reality media are intended for viewing on
 
 ## Tour of the ASC Blackfriars Theater
 
-<iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/PjUmz7MIeVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-2kG356s_6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Hamlet, Act 1, Scene 2
 
