@@ -9,4 +9,4 @@ Shakespeare VR is an open source educational tool for instructors to use when in
 
 The first lesson we have available is a comparative analysis between three different productions. In this lesson, students will study the physical aspects of Elizabethan theater with the goal of learning how to identify and assess the functions of space, medium, and performance choices in Shakespearean drama. The lesson centers on a virtual reality tour of the American Shakespeare Center Blackfriars Playhouse and three different productions of the “to be or not to be” soliloquy: a film, a filmed theatrical production, and a virtual reality production. 
 
-The worksheet for the first lesson can be accessed [here](/assets/img/lessonworksheet1.1).
+The worksheet for the first lesson can be accessed [here](/assets/img/lessonworksheet1.1.pdf).
