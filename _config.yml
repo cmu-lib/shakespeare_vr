@@ -26,7 +26,7 @@ netlify_cms: true
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Scripts / Features
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-150223086-1
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
