@@ -4,7 +4,7 @@ subtitle: Tours and Soliloquies
 feature-img: /assets/img/vr_cam.jpg
 layout: page
 ---
-Please note that the following virtual reality media are intended for viewing on a virtual reality headset. Resolution qulaitly will depend on the speed of the user's internet connection. For best results, download the virtual media directly from our downloads section. 
+Please note that the following virtual reality media are intended for viewing on a virtual reality headset. Resolution quaitly will depend on the speed of the user's internet connection. For best results, download the virtual media directly from our downloads section. 
 
 ## Tour of the ASC Blackfriars Theater
 
