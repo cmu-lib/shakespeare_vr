@@ -17,7 +17,6 @@ Mark Billinghurst. New Horizons for Learning (2002)
 
 While Shakespeare VR does not classify as an augmented reality system, the impact of mixed reality tools on education is still being explored. The article describes the increased cooperation that is established when multiple students are working in the same problem space. One of the assets Augmented Reality and Virtual Reality offer is a tangible interface metaphor. This metaphor allows for accurate transition from the physical world to the virtual world. Through the metaphor you can experience something in one world and still understand it in the other world. One of the motivations of Shakespeare VR is to experience the show and language of the Bard, and take that into the real world classroom setting. _\-Thomas Serban von Davier_
 
-## 
 
 ## A Literature Review on Immersive Virtual Reality in Education: State of the Art and Perspectives.
 
