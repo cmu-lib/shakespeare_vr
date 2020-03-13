@@ -9,7 +9,7 @@ Development funded as part of the 2019 A.W. Mellon Digital Humanities Seed Grant
 During the editorial phase of this project, a preview build of the site has been deployed to <https://cmu-shx-vr.netlify.com/>.
 Netlify builds the static site with each commit, and supplies a [client-side CMS](https://www.netlifycms.org/) for authorized editors of the site.
 
-The production site is deployed to <http://dh-web.hss.cmu.edu/shakespeare_vr> via a webhook.
+The production site is deployed to <http://dh-web.hss.cmu.edu/shakespeare_vr>.
 
 ## Build
 
